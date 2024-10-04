@@ -2,7 +2,7 @@
 
 <tr><td colspan=2 align="center">
 
-![](doc/deepfacelive_intro.png)
+![](doc/deepfakelive
 
 ![](doc/logo_onnx.png)![](doc/logo_directx.png)![](doc/logo_python.png)
 
